@@ -26,7 +26,7 @@ The builder allow to manage dynamically the optimizers. It is necessary to defin
 
 
 ## Notebooks
-- [Main](https://github.com/iribarnesy/optim/blob/master/Main.ipynb) : The study about the performance of the optimizers
+- [Main](https://github.com/iribarnesy/optim/blob/master/Main.ipynb) : The study about the performance of the optimizers (It may be difficult to load it into your navigator)
 - [Rectangle](https://github.com/iribarnesy/optim/blob/master/Rectangle.ipynb) : Class and functions related to the problem definition
 - [OptimizerBuilder](https://github.com/iribarnesy/optim/blob/master/OptimizerBuilder.ipynb) : Builder for the optimizers
 - [PSO](https://github.com/iribarnesy/optim/blob/master/PSO.ipynb) : Class for the PSO optimizer
