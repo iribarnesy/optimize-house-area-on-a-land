@@ -6,6 +6,8 @@ Date : 12 Dec, 2020
 
 *Note : The animations are not loaded in the preview of the notebooks in GitHub. If you want to see it you can download the notebook and open it in Jupyter.*
 
+![](img/swarm_animation.gif)
+
 ## Problem : Maximize the area of a house on a land
 
 A house is represented with a rectangle. A land is any polygon, convex or concave.
